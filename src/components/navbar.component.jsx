@@ -7,7 +7,7 @@ export default class Navbar extends Component {
       <nav className="navbar navbar-dark bg-dark navbar-expand-lg px-5 py-2">
         <div className="container-fluid">
           <Link to="/" className="navbar-brand py-2">
-            ExcerTracker
+            Excercises Tracker
           </Link>
           <button
             class="navbar-toggler"
